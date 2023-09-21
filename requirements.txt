@@ -1,0 +1,8 @@
+moto
+pytest
+pytest-env
+boto3
+requests
+servicenow
+click
+configparser
