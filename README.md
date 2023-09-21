@@ -1,4 +1,4 @@
-# REP: Raptor Event Processor (POC)
+# aws_config_lambda Example
 
 ## Virtualenv
 
